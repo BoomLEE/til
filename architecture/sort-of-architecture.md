@@ -1,1 +1,0 @@
-Monolithic architecture or microservice architecture
