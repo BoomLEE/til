@@ -9,6 +9,7 @@ http://www.parkjonghyuk.net/lecture/2017-1st-lecture/crypto/Crypto.pdf
 2) 비대칭 암호
 3) 대칭 암호
 
+학습계획
 1) '박종혁 교수님 강의 자료'
 2) '사토시 논문'
 3) '비트코인의 RAW 블럭체인 원리 이해'
