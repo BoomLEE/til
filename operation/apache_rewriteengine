@@ -1,0 +1,13 @@
+# How to use RewriteEngine
+
+## What is Rewrite Engine?
+- Apacheのモジュールであるmod_rewriteを利用するときに使う宣言文です。
+
+## How to use Rewrite Engine (mod_rewrite)
+- httpd.confや.htaccessでRewriteEngine onと書いておくだけで使える。
+
+## RewriteCond Option
+- RewriteCond %{REQUEST_FILENAME} !-d // If the request is not for a valid directory
+- RewriteCond %{REQUEST_FILENAME} !-f // If the request is not for a valid file
+- RewriteCond %{REQUEST_FILENAME} !-l // If the request is not for a valid link
+https://murashun.jp/blog/20141229-01.html#chapter-31
