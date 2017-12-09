@@ -1,5 +1,5 @@
 
-#Authentication Techniques for APIs 
+# Authentication Techniques for APIs 
 
 ## HTTP Basic Auth 
 * user name and password with every request
