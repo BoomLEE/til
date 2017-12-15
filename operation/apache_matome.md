@@ -10,9 +10,9 @@
 ### Hostnames and DNS
 - A [hosts file](https://en.wikipedia.org/wiki/Hosts_file) will probably be located at __/etc/hosts__.
 - Virtual hosts
- - More than one __hostname__ may point to the __same IP address__.
- - More than one __IP address__ can be attached to the __same physical server__.
- - You can run more than one __web site__ on the same __physical server__.
+ - __More than one hostname__ may point to the __same IP address__.
+ - __More than one IP address__ can be attached to the __same physical server__.
+ - You can run __more than one web site__ on the same __physical server__.
 
 ### Configuration Files and Directives
 - the default location of the configuration files is __/usr/local/apache2/conf__.
