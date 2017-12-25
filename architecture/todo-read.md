@@ -1,1 +1,0 @@
-http://microservices.io/patterns/index.html
