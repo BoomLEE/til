@@ -1,5 +1,5 @@
 # Ansible Best Practices
-
+- http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#directory-layout
 ## Best Practices
 ```
 .
